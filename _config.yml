@@ -1,0 +1,101 @@
+### Site Settings ###
+title               : Anton Lundh
+description         : >-
+                      Master's student at Chalmers University of Technology. Interested in technology, with a sweet spot for 3D printing, home automation, mechatronics, and cyber security!
+baseurl             : ""                     
+repository          : Flawl3ssSWE/alundh     
+remote_theme        : Flawl3ssSWE/portfolYOU
+open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
+
+
+### Plugins ###
+plugins:
+  - jemoji
+
+
+### Navbar Settings ###
+nav_exclude:                                            # The following paths are excluded from navbar
+  - pages/tags.html
+  - pages/404.html
+  - pages/index.md
+
+
+### Author Info ###
+author:
+  name              : Anton Lundh
+  image             : https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/284030364_2981563935416408_8095768814714222145_n.jpg?_nc_cat=104&cb=99be929b-59f725be&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=X1VDSlFoU_AAX_IDSEI&_nc_ht=scontent-arn2-1.xx&oh=00_AfCzwrC2Y-n3zr12NEr5cwRVhbbD3h5mKZ0R6FfzzEcBjw&oe=64D1C91B
+#  behance           : your_username
+# dribbble          : your_username
+  email             : contact@alundh.com
+#  facebook          : your_username
+  github            : Flawl3ssSWE
+# gitlab            : your_username
+# instagram         : your_username
+# kaggle            : your_username
+  linkedin          : antonlundh
+#  medium            : your_username
+# soundcloud        : your_username
+# spotify           : your_username
+# stackoverflow     : your_user_id
+# tumblr            : your_username.tumblr.com
+# twitch            : your_username
+#  twitter           : your_username
+# vimeo             : your_username
+# youtube           : your_channel_name
+# keybase           : your_username
+
+
+### Posts ###
+permalink: /blog/:title
+
+
+### Collections ###
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+
+
+
+### Disqus ###
+disqus:
+  shortname: anton_lundh                     # Your website Shortname on disqus
+
+
+### Analytics ###
+analytics:
+  enabled: false                                        # Set true to enable analytics
+  google:
+    tracking_id: your-google-tracking-id
+
+
+### Buy me a coffee ###
+# See https://www.buymeacoffee.com/
+buymeacoffee:
+  enabled: false
+  username: your_username
+  color: "#007bff"
+  message: "Thank you for visiting."                    # Message to be displayed aside from the button for a few seconds.
+  description: "Support me on Buy me a coffee!"
+
+
+### Defaults for collections ###
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: false                                   # Set to true to enable disqus comments
+
+
+### Exclude from processing ###
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - "*.log"
