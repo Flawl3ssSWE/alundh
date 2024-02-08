@@ -65,9 +65,11 @@ All of my interests combined led me to decide to be a part of the board for the 
 	<ul>
 		<li>Arduino</li>
 		<li>C</li>
+		<li>GoLang</li>
 	</ul>
-	<h5>Have used before:</h5>
+	<h5>Some knowledge of:</h5>
 	<ul>
+		<li>Python</li>
 		<li>VHDL</li>
 		<li>C++</li>
 		<li>C#</li>
@@ -76,7 +78,6 @@ All of my interests combined led me to decide to be a part of the board for the 
 	</ul>
 	<h5>Have touched:</h5>
 	<ul>
-		<li>Python</li>
 		<li>CircuitPython</li>
 		<li>JavaScript</li>
 		<li>MySQL</li>
