@@ -22,9 +22,9 @@ Allowing for printing two of the same parts at the same time, and multicolor pri
 
 My love for mechatronics came almost naturally after years of watching cool projects being built by others. I decided to join the action, by building cool projects that had been designed by others' and started to design my own. My go-to kind of project is some kind of home automation, making my life in some way easier (usually :wink:). Some of my favorites that are designed by me can be found under the "Projects" tab (coming soon).
 
-My love for hiking began at Store Mosse National Park outside Värnamo, evolving from casual walks into explorations of some of Sweden's most incredible places. Last summer, me and a friend hiked and lived in a tent for five and a half days while hiking along Kungsleden, between Abisko and Nikkaluokta. If you ever find yourself around Åre in the summer, I highly recommend taking a day to visit Jämtlands Pyramiderna, located in Vålådalens Nature Reserve. It is a 22 km hike, which might sound like a long trek, but seeing the pyramids with your own eyes is, in my humble opinion, well worth it!
+My love for hiking began at Store Mosse National Park outside Värnamo, evolving from casual walks into explorations of some of Sweden's most incredible places. Last summer, me and a friend hiked and lived in a tent for 19 while hiking along Kungsleden, between Hemavan and Saltoloukta, a hike totaling 360 km. If you ever find yourself around Åre in the summer, I highly recommend taking a day to visit Jämtlands Pyramiderna, located in Vålådalens Nature Reserve. It is a 22 km hike, which might sound like a long trek, but seeing the pyramids with your own eyes is, in my humble opinion, well worth it!
 
-My interest in cyber security, came sometime between 2016 and 2018, after stumbling upon the great site [haveibeenpwned.com](https://haveibeenpwned.com){:target="_blank"}{:rel="noopener noreferrer"} by Troy Hunt and finding out some of my emails had appeared in some data breaches. Since then it has flourished and I am now interested in keeping myself more secure with better passwords and physical two factor authentication keys. I also try to keep my home network safe by running pfSense with multiple segmented VLANs to minimize the attack vector. In the end, this has led me to choose to orient my future career and master's degree towards cyber security.
+My interest in cyber security, came sometime between 2016 and 2018, after stumbling upon the great site [haveibeenpwned.com](https://haveibeenpwned.com){:target="_blank"}{:rel="noopener noreferrer"} by Troy Hunt and finding out some of my emails had appeared in some data breaches. Since then it has flourished and I am now interested in keeping myself more secure with better passwords and physical two factor authentication keys. I also try to keep my home network safe by running pfSense with multiple segmented VLANs to minimize the attack vector. In the end, this has led me to choose to orient my future career and master's degree towards cyber security. In my spare time I use TryHackMe to learn more about cyber security.
 
 All of my interests combined led me to decide to be a part of the board for the student association Lindholmens Makerspace during my third year at Chalmers, offering help and space for other students to build and design at Chalmers. During my time at Lindholmens Makerspace I was responsible for taking notes at our meetings, our 3D Printers, designing the posters we put up around Chalmers advertising our events, knowing what we owned and where it was located, and keeping our tools and electronics stock up to date with what the members wanted.
 
@@ -63,24 +63,24 @@ All of my interests combined led me to decide to be a part of the board for the 
     <h2>Programming languages</h2>
     <h5>Good knowledge of:</h5>
 	<ul>
-		<li>Arduino</li>
-		<li>C</li>
-		<li>GoLang</li>
+		<li>Arduino (C)</li>
+		<li>Python</li>
+		
 	</ul>
 	<h5>Some knowledge of:</h5>
 	<ul>
-		<li>Python</li>
+		<li>GoLang</li>
+		<li>HTML/PHP/CSS</li>
+		<li>SQL</li>
 		<li>VHDL</li>
 		<li>C++</li>
 		<li>C#</li>
-		<li>HTML/PHP/CSS</li>
 		<li>Assembler</li>
 	</ul>
 	<h5>Have touched:</h5>
 	<ul>
 		<li>CircuitPython</li>
 		<li>JavaScript</li>
-		<li>MySQL</li>
 	</ul>
   </div>
   
@@ -88,12 +88,12 @@ All of my interests combined led me to decide to be a part of the board for the 
     <h2>Software</h2>
     	<ul class="Software">
 			<li>AutoDesk Fusion 360</li>
-			<li>SolidWorks</li>
-			<li>Catia (Mechanical Design)</li>
+			<li>BurpSuite</li>
+			<li>MetaSploit</li>
+			<li>Nmap</li>
 			<li>Microsoft Office</li>
 			<li>Microsoft PowerAutomate</li>
 			<li>Microsoft SharePoint</li>
-			<li>Microsoft Forms</li>
 			<li>Adobe Photoshop</li>
 			<li>Adobe Illustrator</li>
 		</ul>

@@ -23,23 +23,23 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Anton Lundh
-  image             : /assets/Profile_picture.png
-#  behance           : your_username
+  image             : /assets/Profile_picture.jpg
+# behance           : your_username
 # dribbble          : your_username
   email             : contact@alundh.com
-#  facebook          : your_username
+# facebook          : your_username
   github            : Flawl3ssSWE
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
   linkedin          : antonlundh
-#  medium            : your_username
+# medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-#  twitter           : your_username
+# twitter           : your_username
 # vimeo             : your_username
 # youtube           : your_channel_name
 # keybase           : your_username
